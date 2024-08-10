@@ -382,7 +382,7 @@ export default function Home() {
                 </div>
               </nav>
               <div
-                className="menu-button w-nav-button"
+                className="menu-button w-nav-button mx-4"
                 style={{
                   WebkitUserSelect: "text",
                 }}
