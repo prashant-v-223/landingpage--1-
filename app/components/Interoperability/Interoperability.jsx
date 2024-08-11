@@ -96,9 +96,8 @@ const Interoperability = () => {
             <div class="bi-content is-icns df-item_newtop">
 
               <div
-
                 data-w-id="b3fd95f7-10b2-f103-e2b0-e28f97e2adb1 flex justify-between"
-                className="df-item md:flex justify-around df-item_new"
+                className="df-item md:flex justify-around df-item_new px-5"
               >
                 <div className="md:w-1/2 ">
                   <h3 className="text-3xl font-bold mt-5 md:mt-0 text-white "> <span className="text-[#9B59B6]">Copywing </span> <span className="text-white">bonus presale</span></h3>
@@ -398,7 +397,7 @@ const Interoperability = () => {
             </div>
           </Slider>
         </div>
-        <div className="row px-3">
+        <div className="row px-3 py-5 my-md-5">
           <div className="col-12 col-md-4">
             <h3 className="h2" style={{
               fontSize: 36,
