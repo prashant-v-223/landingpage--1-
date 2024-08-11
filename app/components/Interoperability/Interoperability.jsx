@@ -97,11 +97,11 @@ const Interoperability = () => {
 
               <div
                 data-w-id="b3fd95f7-10b2-f103-e2b0-e28f97e2adb1 flex justify-between"
-                className="df-item md:flex justify-around df-item_new px-5"
+                className="df-item md:flex justify-around df-item_new md:px-10"
               >
                 <div className="md:w-1/2 ">
-                  <h3 className="text-3xl font-bold mt-5 md:mt-0 text-white "> <span className="text-[#9B59B6]">Copywing </span> <span className="text-white">bonus presale</span></h3>
-                  <p className="text-white mt-3 max-w-[350px]">
+                  <h3 className="text-3xl font-bold mt-5 md:mt-0 text-white  text-md-start "> <span className="text-[#9B59B6]">Copywing </span> <span className="text-white">bonus presale</span></h3>
+                  <p className="text-white mt-3 max-w-[350px] text-md-start ">
                     If you invite anyone on the platform you will be rewarded with 10% referral bonus.
                     You can become a group leader to earn referral commission of 15%.
                   </p>
