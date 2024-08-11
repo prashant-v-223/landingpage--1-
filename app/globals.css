@@ -16,6 +16,10 @@
   }
 }
 
+ul,
+ol {
+  padding-left: 0px !important;
+}
 .slick-arrow .slick-prev {
   display: none !important;
 }
