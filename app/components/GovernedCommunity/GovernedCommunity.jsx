@@ -12,19 +12,19 @@ const GovernedCommunity = () => {
           justifyContent: "center"
         }}>
           <h3 className="h2" style={{
-            fontSize: 48,
+            fontSize: "1.875rem  !important",
             lineHeight: "41.28px"
           }}> About <span style={
             {
-              color: '#775EFB',
-              fontSize: 48
+              color: '#9B59B6',
+              fontSize: "1.875rem  !important",
             }
           }>Copywing</span>
           </h3>
 
           <h3 className="h2" style={{
-            fontSize: 40,
-            lineHeight: "50px"
+            fontSize: "1.875rem  !important",
+            lineHeight: "39px"
           }}> Empowering traders <br />with cutting edge tools
           </h3>
           <p className="p" style={{
@@ -32,7 +32,7 @@ const GovernedCommunity = () => {
           }}>
             <span style={
               {
-                color: '#775EFB',
+                color: '#9B59B6',
               }
             }>Copywing</span>, we are passionate about empowering traders with the tools they need to succeed in today's dynamic financial markets. Founded by a team of experienced traders and technology enthusiasts, we understand the challenges that traders face and are committed to providing innovative solutions to address them.
           </p>
@@ -57,23 +57,23 @@ const GovernedCommunity = () => {
             lineHeight: "41.28px"
           }}> About <span style={
             {
-              color: '#775EFB',
+              color: '#9B59B6',
               fontSize: 48
             }
           }>Copywing</span>
           </h3>
 
-          <h3 className="h2" style={{
-            fontSize: 40,
+          <h3 className="h2 " style={{
+            fontSize: 30,
             lineHeight: "50px"
-          }}> Empowering traders <br />with cutting edge tools
+          }}> Empowering traders with cutting edge tools
           </h3>
           <p className="p" style={{
             color: "#C3C3C3"
           }}>
             <span style={
               {
-                color: '#775EFB',
+                color: '#9B59B6',
               }
             }>Copywing</span>, we are passionate about empowering traders with the tools they need to succeed in today's dynamic financial markets. Founded by a team of experienced traders and technology enthusiasts, we understand the challenges that traders face and are committed to providing innovative solutions to address them.
           </p>
@@ -82,7 +82,7 @@ const GovernedCommunity = () => {
       <div data-aos="fade-up" data-w-id="b3fd95f7-10b2-f103-e2b0-e28f97e2adb1"
         className="df-item   df-item_last  d-block  justify-between d-md-flex"
       >
-        <div className="md:max-w-[40%] " style={{
+        <div className="md:max-w-[50%] " style={{
           display: "flex",
           flexDirection: "column",
           justifyContent: "center"
@@ -92,15 +92,15 @@ const GovernedCommunity = () => {
             lineHeight: "41.28px"
           }}> Our  <span style={
             {
-              color: '#775EFB',
+              color: '#9B59B6',
               fontSize: 48
             }
           }>mission</span>
           </h3>
-          <h3 className="h2" style={{
-            fontSize: 40,
-            lineHeight: "50px"
-          }}> Empowering traders <br />with cutting edge tools
+          <h3 className="h2 " style={{
+            fontSize: "30px !important",
+            lineHeight: "30px"
+          }}> Empowering traders with cutting edge tools
           </h3>
           <p className="p" style={{
             color: "#C3C3C3"
@@ -114,31 +114,33 @@ const GovernedCommunity = () => {
         </div>
       </div>
       <div data-aos="fade-up" data-w-id="b3fd95f7-10b2-f103-e2b0-e28f97e2adb1"
-        className="df-item   df-item_last  d-block  justify-between d-md-flex my-5 py-5"
+        className="df-item   df-item_last  d-block  justify-around d-md-flex my-5 py-5"
       >
-        <div className="md:p-8 pb-0  md:ml-5 md:max-w-[40%] " style={{
+        <div className="md:p-8 pb-0  md:ml-5 md:max-w-[60%] bg-[#161616] p-2" style={{
           display: "flex",
           flexDirection: "column",
           justifyContent: "center"
         }}>
-          <h3 className="h2" style={{
-            fontSize: 48,
-            lineHeight: "50px"
-          }}> Why you should  <br />
+          <h3 className="text-[#fff]" style={{
+            fontSize: "1.875rem  !important",
+            lineHeight: "39px"
+          }}> Why you should
             choose   <span style={
               {
-                color: '#775EFB',
-                fontSize: 48
+                color: '#9B59B6',
+                fontSize: "1.875rem  !important",
               }
             }>Copywing</span>
           </h3>
-          <div>
-            <div>
-
-              <div className=''>
+          <div className='px-4 py-3 '>
+            <div className='d-flex pb-4' style={{ borderBottom: "2px solid #fff" }}>
+              <div className='w-[15%] md:w-[12%]'>
+                <span className='menu-num '>01</span>
+              </div>
+              <div className='w-[85%] md:w-[88%]'>
                 <span style={
                   {
-                    color: '#775EFB',
+                    color: '#9B59B6',
                     fontSize: 20
                   }
                 }><b>Expert traders</b></span>
@@ -149,33 +151,41 @@ const GovernedCommunity = () => {
                 </p>
               </div>
             </div>
-            <div className=''>
-              <span style={
-                {
-                  color: '#775EFB',
-                  fontSize: 20
-                }
-              }><b>User friendly interface</b></span>
-              <p className="p mb-2" style={{
-                color: "#C3C3C3"
-              }}>
-                Our platform is designed with simplicity and usability
-                in mind. Whether you're a seasoned trader or just
-                getting started, you'll find our intuitive interface
-                easy to navigate and use.   </p>
+            <div className='d-flex py-4' style={{ borderBottom: "2px solid #fff" }}>
+            <div className='w-[15%] md:w-[12%]'>
+                <span className='menu-num '>02</span></div>
+              <div className='w-[85%] md:w-[88%]'>
+                <span style={
+                  {
+                    color: '#9B59B6',
+                    fontSize: 20
+                  }
+                }><b>User friendly interface</b></span>
+                <p className="p mb-2" style={{
+                  color: "#C3C3C3"
+                }}>
+                  Our platform is designed with simplicity and usability
+                  in mind. Whether you're a seasoned trader or just
+                  getting started, you'll find our intuitive interface
+                  easy to navigate and use.   </p>
+              </div>
             </div>
-            <div className=''>
-              <span style={
-                {
-                  color: '#775EFB',
-                  fontSize: 20
-                }
-              }><b>Security & Reliability</b></span>
-              <p className="p mb-2" style={{
-                color: "#C3C3C3"
-              }}>
-                We take the security of your assets and data seriously. Our platform employs robust security measures and adheres to industry best practices to ensure the safety and integrity of your investments.
-              </p>
+            <div className='d-flex py-4'>
+            <div className='w-[15%] md:w-[12%]'>
+                <span className='menu-num'>03</span></div>
+              <div className='w-[85%] md:w-[88%]'>
+                <span style={
+                  {
+                    color: '#9B59B6',
+                    fontSize: 20
+                  }
+                }><b>Security & Reliability</b></span>
+                <p className="p mb-2" style={{
+                  color: "#C3C3C3"
+                }}>
+                  We take the security of your assets and data seriously. Our platform employs robust security measures and adheres to industry best practices to ensure the safety and integrity of your investments.
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -198,12 +208,12 @@ const GovernedCommunity = () => {
           margin: "auto",
         }}>
           <h3 className="h2 text-center" style={{
-            fontSize: 48,
+            fontSize: "1.875rem  !important",
             lineHeight: "60px"
           }}> Get started with <span style={
             {
-              color: '#775EFB',
-              fontSize: 48
+              color: '#9B59B6',
+              fontSize: "1.875rem  !important",
             }
           }>Copywing</span>
             <br />     and get benifits
@@ -214,7 +224,7 @@ const GovernedCommunity = () => {
           }}>
             Has a variety of features that make it the best place to start copy trading   </p>
 
-          <div className='d-md-flex justify-content-between pt-12' >
+          <div className='d-md-flex justify-content-between pt-12 cards' >
             <div className='card-10 p-5'>
               <img src="/newsectionimages/box 1.png" className='d-block mb-4 mx-auto' style={{
               }} />
