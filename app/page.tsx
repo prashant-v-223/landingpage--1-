@@ -105,7 +105,7 @@ export default function Home() {
                 aria-label="home"
               >
                 <img
-                  src="images/webclip.png"
+                  src="images/Group 1000004870_.png"
                   loading="lazy"
                   alt=""
                   className="w-[50%]"
