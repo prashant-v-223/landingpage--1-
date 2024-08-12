@@ -15,7 +15,7 @@ const BetaAccess = () => {
      <div data-aos="fade-up" className="relative mx-6">
     <div class="block-item my-10   ">
       <div id="validator" class="anchor"></div>
-      <div class="bi-content is-valid-cont  md:ml-[55%]">
+      <div class="bi-content is-valid-cont dem ">
         <div class="badge-item is--small">
           <div class="badge-bg">
             <div class="badge-content">
