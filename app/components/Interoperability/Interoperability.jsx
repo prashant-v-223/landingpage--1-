@@ -343,7 +343,7 @@ const Interoperability = () => {
         >
           <h2 className="h2"><span style={
             {
-              color: '#775EFB'
+              color: '#9b59b1'
             }
           }>TDF Token</span> presale phases</h2>
           <p className="p is-s2-p pb-5">
@@ -404,7 +404,7 @@ const Interoperability = () => {
               lineHeight: "41.28px"
             }}><span style={
               {
-                color: '#775EFB',
+                color: '#9b59b1',
                 fontSize: 36
               }
             }>TDF Token</span>  dividend
@@ -418,7 +418,7 @@ const Interoperability = () => {
               of the presale phases
             </p>
             <p className="p my-1" style={{
-              color: "#775EFB"
+              color: "#9b59b1"
             }}>
               Time in months
             </p>
@@ -431,14 +431,14 @@ const Interoperability = () => {
           <div className="col-12 col-md-8">
             <p className="px-md-2" style={{ color: "#fff" }}><span style={
               {
-                color: '#775EFB'
+                color: '#9b59b1'
               }
             }>TDF Token</span>  Dividend Prediction in X Calculation for PHASE 1</p>
             <div className="row p-2 p-md-4 ">
               <div className="col-6 col-md-4" style={{ padding: 5 }}>
                 <div className=" card-1 ">
                   <div className="h3 m-0" style={{
-                    color: "#9683FF"
+                    color: "#9b59b1"
                   }}>12 Months</div>
                   <div>
                     <h3 style={{ color: "#fff" }}>6</h3>
@@ -448,7 +448,7 @@ const Interoperability = () => {
               <div className="col-6 col-md-4" style={{ padding: 5 }}>
                 <div className=" card-1 ">
                   <div className="h3 m-0" style={{
-                    color: "#9683FF"
+                    color: "#9b59b1"
                   }}>18 Months</div>
                   <div>
                     <h3 style={{ color: "#fff" }}>10</h3>
@@ -458,7 +458,7 @@ const Interoperability = () => {
               <div className="col-6 col-md-4" style={{ padding: 5 }}>
                 <div className=" card-1 ">
                   <div className="h3 m-0" style={{
-                    color: "#9683FF"
+                    color: "#9b59b1"
                   }}>24 Months</div>
                   <div>
                     <h3 style={{ color: "#fff" }}>15</h3>
@@ -468,7 +468,7 @@ const Interoperability = () => {
               <div className="col-6 col-md-4" style={{ padding: 5 }}>
                 <div className=" card-1 ">
                   <div className="h3 m-0" style={{
-                    color: "#9683FF"
+                    color: "#9b59b1"
                   }}>30 Months</div>
                   <div>
                     <h3 style={{ color: "#fff" }}>21</h3>
@@ -478,7 +478,7 @@ const Interoperability = () => {
               <div className="col-6 col-md-4" style={{ padding: 5 }}>
                 <div className=" card-1 ">
                   <div className="h3 m-0" style={{
-                    color: "#9683FF"
+                    color: "#9b59b1"
                   }}>36 Months</div>
                   <div>
                     <h3 style={{ color: "#fff" }}>28</h3>
@@ -488,7 +488,7 @@ const Interoperability = () => {
               <div className="col-6 col-md-4" style={{ padding: 5 }}>
                 <div className=" card-1 ">
                   <div className="h3 m-0" style={{
-                    color: "#9683FF"
+                    color: "#9b59b1"
                   }}>42 Months</div>
                   <div>
                     <h3 style={{ color: "#fff" }}>36</h3>
@@ -498,7 +498,7 @@ const Interoperability = () => {
               <div className="col-6 col-md-4" style={{ padding: 5 }}>
                 <div className=" card-1 ">
                   <div className="h3 m-0" style={{
-                    color: "#9683FF"
+                    color: "#9b59b1"
                   }}>48 Months</div>
                   <div>
                     <h3 style={{ color: "#fff" }}>45</h3>
@@ -508,7 +508,7 @@ const Interoperability = () => {
               <div className="col-6 col-md-4" style={{ padding: 5 }}>
                 <div className=" card-1 ">
                   <div className="h3 m-0" style={{
-                    color: "#9683FF"
+                    color: "#9b59b1"
                   }}>54 Months</div>
                   <div>
                     <h3 style={{ color: "#fff" }}>55</h3>
@@ -518,7 +518,7 @@ const Interoperability = () => {
               <div className="col-6 col-md-4" style={{ padding: 5 }}>
                 <div className=" card-1 ">
                   <div className="h3 m-0" style={{
-                    color: "#9683FF"
+                    color: "#9b59b1"
                   }}>60 Months</div>
                   <div>
                     <h3 style={{ color: "#fff" }}>75</h3>
