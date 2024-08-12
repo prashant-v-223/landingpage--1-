@@ -88,17 +88,17 @@ const GovernedCommunity = () => {
           justifyContent: "center"
         }}>
           <h3 className="h2" style={{
-            fontSize: 48,
+            fontSize: 39,
             lineHeight: "41.28px"
           }}> Our  <span style={
             {
               color: '#9B59B6',
-              fontSize: 48
+              fontSize: 39
             }
           }>mission</span>
           </h3>
           <h3 className="h2 " style={{
-            fontSize: "30px !important",
+            fontSize: "20px !important",
             lineHeight: "30px"
           }}> Empowering traders with cutting edge tools
           </h3>
@@ -116,7 +116,7 @@ const GovernedCommunity = () => {
       <div data-aos="fade-up" data-w-id="b3fd95f7-10b2-f103-e2b0-e28f97e2adb1"
         className="df-item   df-item_last  d-block  justify-around d-md-flex my-5 py-5"
       >
-        <div className="md:p-8 pb-0  md:ml-5 md:max-w-[60%] bg-[#161616] p-2" style={{
+        <div className="md:p-8 pb-0  md:ml-5 md:max-w-[60%] bg-[#161616] p-4" style={{
           display: "flex",
           flexDirection: "column",
           justifyContent: "center"
