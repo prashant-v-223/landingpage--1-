@@ -1914,7 +1914,9 @@ h3 {
     width: 100% !important;
   }
 }
-
+.dem{
+  width: 38em !important;
+}
 .background_box {
   /* background-image: url("/blue-blur.webp"); */
   background-repeat: no-repeat;
