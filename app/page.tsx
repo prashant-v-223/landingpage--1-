@@ -94,7 +94,7 @@ export default function Home() {
             role="banner"
             className="nav w-nav"
           >
-            <div className="nav-container">
+            <div className="nav-container w-[90%] mx-[5%]">
               <a
                 aria-current="page"
                 className="nav-logo-link w-nav-brand w--current"
