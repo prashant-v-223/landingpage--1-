@@ -1914,8 +1914,21 @@ h3 {
     width: 100% !important;
   }
 }
-.dem{
-  width: 38em !important;
+
+.dem {
+  width: 48% !important;
+}
+
+.bi-content_text h3 {
+  font-size: 24px !important;
+}
+
+.features-item p {
+
+  font-size: 12px !important;
+}
+.bi-content_text {
+  width: 85% !important;
 }
 .background_box {
   /* background-image: url("/blue-blur.webp"); */
@@ -6994,9 +7007,11 @@ li {
 
   }
 }
-.cards{
+
+.cards {
   gap: 60px;
 }
+
 .card-10 {
   background: linear-gradient(180deg, #161616 0%, #2E2A42 100%);
   border: 1px solid #333334;
