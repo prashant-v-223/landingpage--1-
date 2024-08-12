@@ -400,7 +400,7 @@ nav {
 
 .bi-content {
   z-index: 4;
-  /* width: 23em; */
+  width: 38em;
   grid-column-gap: 1.5em;
   grid-row-gap: 1.5em;
   text-align: left;
@@ -415,6 +415,7 @@ nav {
 .bi-content_text {
   grid-column-gap: 0.4em;
   grid-row-gap: 0.4em;
+  width: 38em !important;
   flex-direction: column;
   align-items: flex-start;
   display: flex;
@@ -6891,7 +6892,6 @@ li {
 
   .h2 {
     margin-bottom: 15px;
-    text-align: center !important;
     font-size: 40px !important;
   }
 
@@ -6986,8 +6986,15 @@ li {
   .hero-blurs {
     left: 35px;
   }
-}
 
+  .card-10 {
+    margin: 20px;
+
+  }
+}
+.cards{
+  gap: 60px;
+}
 .card-10 {
   background: linear-gradient(180deg, #161616 0%, #2E2A42 100%);
   border: 1px solid #333334;
@@ -6997,7 +7004,6 @@ li {
   align-items: center;
   border-radius: 25px;
   height: 380px;
-  margin: 20px;
 }
 
 .card-h4 {
@@ -7280,6 +7286,12 @@ li {
   font-weight: 300;
   font-style: normal;
   font-display: swap;
+}
+
+.menu-num {
+  color: #D0DBFF;
+  font-weight: 800;
+  font-size: 24px;
 }
 
 .slick-dots li button {
