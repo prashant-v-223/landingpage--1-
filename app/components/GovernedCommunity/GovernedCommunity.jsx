@@ -196,6 +196,7 @@ const GovernedCommunity = () => {
         }}>
           <img src="/newsectionimages/card-1.png" className='my-3' />
           <img src="/newsectionimages/card-2.png" className='my-3' />
+          <img src="/newsectionimages/card-3.png" className='my-3' />
         </div>
       </div>
       <div data-aos="fade-up" data-w-id="b3fd95f7-10b2-f103-e2b0-e28f97e2adb1"
