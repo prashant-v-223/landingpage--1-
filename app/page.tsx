@@ -94,7 +94,7 @@ export default function Home() {
             role="banner"
             className="nav w-nav"
           >
-            <div className="container">
+            <div className="nav-container">
               <a
                 aria-current="page"
                 className="nav-logo-link w-nav-brand w--current"
@@ -105,7 +105,7 @@ export default function Home() {
                   src="images/Group 1000004870.png"
                   loading="lazy"
                   alt=""
-                  className="w-[30%]"
+                  className="w-[65%]"
                 />
               </a>
               <nav
