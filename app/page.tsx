@@ -108,7 +108,7 @@ export default function Home() {
                   src="images/Group 1000004870.png"
                   loading="lazy"
                   alt=""
-                  className="w-[65%]"
+                  className="w-[50%]"
                 />
               </a>
               <nav
