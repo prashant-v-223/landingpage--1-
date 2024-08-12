@@ -1908,11 +1908,19 @@ h3 {
     width: 50% !important;
   }
 }
+.dem {
+  width: 48% !important;
+}
+
 
 @media (max-width: 767px) {
   .width_hundred {
     width: 100% !important;
   }
+  .dem {
+    width: 100% !important;
+  }
+  
 }
 
 .dem {
