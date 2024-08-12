@@ -209,7 +209,7 @@ const GovernedCommunity = () => {
         }}>
           <h3 className="h2 text-center" style={{
             fontSize: "1.875rem  !important",
-            lineHeight: "60px"
+            lineHeight: "40px"
           }}> Get started with <span style={
             {
               color: '#9B59B6',
