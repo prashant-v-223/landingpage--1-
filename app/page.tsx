@@ -96,7 +96,7 @@ export default function Home() {
           >
             <div className="nav-container" style={{
             
-    width: '96%'
+    width: '90%'
             }}>
               <a
                 aria-current="page"
